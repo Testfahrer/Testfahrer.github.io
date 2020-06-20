@@ -26,5 +26,5 @@ Zitatende
 Normaler __Text__
 
 Hier ein Bild
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sybilla_Ma%C5%82gorzata_Piast%C3%B3wna.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sybilla_Ma%C5%82gorzata_Piast%C3%B3wna.jbg"/>
 
