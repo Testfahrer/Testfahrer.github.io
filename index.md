@@ -28,5 +28,23 @@ ju6jhtrzjutj
 
 Zitate:
 > I’ve always been more interested
-> in the future than in the past.
+> in the future than in the past
 Zitatende
+
+
+Normaler Text
+
+Hier ein Bild
+
+<img src="https://commons.wikimedia.org/wiki/File:Sybilla_Ma%C5%82gorzata_Piast%C3%B3wna.jpg"/>
+
+Text xxxxx
+:+1:
+xxxxx
+
+---------------------
+
+
+
+
+
