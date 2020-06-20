@@ -1,5 +1,5 @@
 
-# Überschrift
+# Überschrift 1
 
 dsadasd asdsad sadsadsa dsa das dsadsad sa das d sad as dasdadadad d sa da
 ada dsad sad as das da
@@ -26,24 +26,15 @@ ju6jhtrzjutj
   * Item 2b
 * Item 3
 
-Text xxxxx
-:+1:
-xxxxx
+Icon :+1: 
 
 Zitate:
 > I’ve always been more interested in the future than in the past 
+
 Zitatende
 
-Zitate:
-> I’ve always been more interested
-> in the future than in the past
-Zitatende
-
-
-Normaler Text
+Normaler __Text__
 
 Hier ein Bild
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sybilla_Ma%C5%82gorzata_Piast%C3%B3wna.jpg"/>
 
-<img src="https://commons.wikimedia.org/wiki/File:Sybilla_Ma%C5%82gorzata_Piast%C3%B3wna.jpg"/>
